@@ -1,5 +1,9 @@
 = Microservices Project: Level 8
 
+In this installment of the project, we are implementing Spring Cloud Config for all services that connect to a database. Service1 and service3 connect to MongoDB for book and author data, and service4 connects to Neo4j for book review data.
+
+== Technologies
+
 This project is part of a series for creating microservices. In this repository, we use the following technologies:
 
 * Spring Boot
