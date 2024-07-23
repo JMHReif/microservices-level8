@@ -77,9 +77,9 @@ Separately, we can test the config service and related services with additional 
 10. Test review backing service: Open a command line window and execute `curl localhost:8083/neo/reviews` or `curl localhost:8083/neo/reviews/178186`.
 11. See the results of reviews appear :)
 
-//  == Content
+ == Content
 
-//  * Blog post: https://jmhreif.com/blog/microservices-level8/[Microservices Level 8^]
+ * Blog post: https://jmhreif.com/blog/2022/microservices-level8/[Microservices Level 8^]
 
 == Previous steps
 
